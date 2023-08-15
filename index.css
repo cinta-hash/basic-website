@@ -1,0 +1,31 @@
+body{
+    background-color: paleturquoise;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+header{
+    background-color: palevioletred;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.container{
+    margin: 0px auto;
+    width: 80%;
+}
+section{
+    float: left;
+    width: 70%;
+}
+aside{
+    float: right;
+    width: 25%;
+}
+footer{
+    text-align: center;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+    clear: both;
+    padding: 40px 0px;
+}
